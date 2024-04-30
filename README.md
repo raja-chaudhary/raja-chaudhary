@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raja-chaudhary
-- 👀 I’m interested in backend development using Django and Django REST Framework (Python).
-- 🌱 I’m currently learning Vue.js to make my web apps more lively and user friendly. Later I plan on learning Flutter to convert my web-app into a mobile app.
+- 👀 I’m interested in backend development using Django / SpringBoot (Python/Java).
+- 🌱 I’m currently working with HP as a Senior Software Dev. I work with Java 17 and mostly writes APIs on Spring Boot 3.0.
 - 💞️ I’m looking to work with a team of smart and compassionate developers.
 - 📫 How to reach me: you can email me at raja@rajachaudhary.com
 
